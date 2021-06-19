@@ -34,3 +34,43 @@
 .social-link a {
     color: white;
 }
+
+.why_icon_block {
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    border-radius: 100%;
+    background: #fff;
+}
+
+.small-violet-shadow {
+    box-shadow: 0 0 30px rgb(95 18 215 / 10%);
+}
+
+.small-green-shadow {
+    box-shadow: 0 0 30px rgb(18 206 215 / 10%);
+}
+
+.small-yellow-shadow {
+    box-shadow: 0 0 30px rgba(215, 158, 18, .1)
+}
+
+.small-blue-shadow {
+    box-shadow: 0 0 30px rgba(18, 96, 215, .1)
+}
+
+.text-violet {
+    color: #5f12d7
+}
+
+.text-green {
+    color: #12ced7
+}
+
+.text-yellow {
+    color: #d79e12
+}
+
+.text-blue {
+    color: #1260d7
+}
