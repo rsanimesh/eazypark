@@ -1,0 +1,36 @@
+.logo_title {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: "Rubik", sans-serif;
+    color: #4458dc;
+}
+
+.nav-text {
+    font-size: 18px;
+    font-weight: 500;
+    color: #000 !important;
+}
+
+.navbar .nav-item:hover .nav-link,
+.navbar .nav-item.active .nav-link,
+.social-link a:hover {
+    color: #4458dc !important;
+}
+
+.large {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    line-height: 50px;
+    font-family: "Rubik", sans-serif;
+    color: #000000;
+}
+
+#contact a,
+.social-link a {
+    text-decoration: none!important;
+}
+
+.social-link a {
+    color: white;
+}
