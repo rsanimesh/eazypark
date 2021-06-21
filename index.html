@@ -46,7 +46,7 @@
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
-                    <i class="bi bi-justify"></i>
+                    <i class="bi bi-justify" style="font-size: 2rem; "></i>
                 </button>
 
                 <div class="collapse navbar-collapse" id="navmenu">
@@ -55,7 +55,7 @@
                             <a href="index.html" class="nav-link mx-1 nav-text">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link mx-1 nav-text">Products</a>
+                            <a href="#" class="nav-link mx-1 nav-text">Our Solutions</a>
                         </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link mx-1 nav-text">About Us</a>
@@ -116,8 +116,66 @@
         </div>
     </section>
 
+    <!-- Products  -->
+    <section class="p-5 bg-second text-dark">
+        <div class="container">
+            <h1 class="text-center">Our Solutions</h1>
+            <p class="lead text-center mb-5">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit, placeat.
+            </p>
+            <div class="row text-center g-4">
+
+                <div class="col-md">
+                    <div class="card bg-light text-dark shadow">
+                        <div class="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-laptop"></i>
+                            </div>
+                            <h3 class="card-title mb-3">Virtual</h3>
+                            <p class="card-text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, quas quidem possimus dolorum esse eligendi?
+                            </p>
+                            <a href="#" class="btn btn-base">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="card bg-light text-dark shadow">
+                        <div class="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-person-square"></i>
+                            </div>
+                            <h3 class="card-title mb-3">Hybrid</h3>
+                            <p class="card-text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, quas quidem possimus dolorum esse eligendi?
+                            </p>
+                            <a href="#" class="btn btn-base">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="card bg-light text-dark shadow">
+                        <div class="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-people"></i>
+                            </div>
+                            <h3 class="card-title mb-3">In Person</h3>
+                            <p class="card-text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, quas quidem possimus dolorum esse eligendi?
+                            </p>
+                            <a href="#" class="btn btn-base">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
     <!-- About Us  -->
-    <section class="p-md-5 bg-dark text-light">
+    <section class="p-md-5 bg-light">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md p-5">
@@ -139,8 +197,8 @@
         </div>
     </section>
 
-    <!-- Product Section  -->
-    <section class="p-md-5" style="background-color: #eeeef8;">
+    <!-- How it Works Section  -->
+    <section class="p-md-5 bg-second">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md w3-animate-left">
@@ -155,8 +213,8 @@
                     <p>
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque reiciendis eius autem eveniet mollitia, at asperiores suscipit quae similique laboriosam iste minus placeat odit velit quos, nulla architecto amet voluptates?
                     </p>
-                    <a href="#" class="btn btn-base mt-3">
-                        <i class="bi bi-chevron-right"></i> Read More
+                    <a href="#" class="btn btn-base mt-3" data-bs-toggle="modal" data-bs-target="#demoModal">
+                        <i class="bi bi-chevron-right"></i> Free Demo
                     </a>
                 </div>
             </div>
@@ -164,7 +222,7 @@
     </section>
 
     <!-- Testimonial  -->
-    <section id="instructors" class="p-5 bg-base">
+    <section class="p-5 bg-base">
         <div class="container">
             <h2 class="text-center text-white">What People Think About Us?</h2>
             <p class="lead text-center text-white mb-5">
@@ -223,17 +281,16 @@
     </section>
 
     <!-- Why Choose Us  -->
-    <section class="p-5" style="background-color: #eeeef8;">
+    <section class="p-5 bg-second">
         <div class="container">
             <!-- Section Heading -->
-            <div class="text-center">
-                <h2>Why Choose Us?</h2>
-                <p class="w-lg-50 m-auto">
-                    Our IoT-based Smart Parking Platform provides a world-class unique set of technology and data capabilities to solve for parking management and congestion in our cities. -
-                </p>
-            </div>
+            <h2 class="text-center">Why Choose Us?</h2>
+            <p class="text-center lead">
+                Our IoT-based Smart Parking Platform provides a world-class unique set of technology and data capabilities to solve for parking management and congestion in our cities. -
+            </p>
+
             <!-- Section Heading -->
-            <div class="row mt-5">
+            <div class="row">
                 <div class="col-sm-3 col-xs-12">
                     <div class="row">
                         <div class="col-sm-12 col-xs-12 mt-5">
@@ -334,7 +391,7 @@
                         </li> -->
                     </ul>
                 </div>
-                <div class="col-md">
+                <div class="col-md p-5 ms-5 shadow">
                     <form action="#">
                         <div class="form-floating mb-3">
                             <input type="email" class="form-control" id="contactEmail" placeholder="name@example.com">

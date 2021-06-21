@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 :root {
     --base-color: #751fb9;
+    --second-color: #eeeef8;
 }
 
 .bg-base {
     background: var(--base-color);
+}
+
+.bg-second {
+    background: var(--second-color);
 }
 
 .text-base {
@@ -105,10 +110,4 @@ body::before {
 
 .text-blue {
     color: #1260d7
-}
-
-@media (min-width: 992px) {
-    .w-lg-50 {
-        width: 50%!important;
-    }
 }
