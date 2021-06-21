@@ -7,6 +7,20 @@
     background: var(--base-color);
 }
 
+.text-base {
+    color: var(--base-color);
+}
+
+.btn-base,
+.btn-base:hover {
+    background: var(--base-color);
+    color: white;
+}
+
+.btn-base:hover {
+    box-shadow: 0 0 10px var(--base-color);
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -91,4 +105,10 @@ body::before {
 
 .text-blue {
     color: #1260d7
+}
+
+@media (min-width: 992px) {
+    .w-lg-50 {
+        width: 50%!important;
+    }
 }
