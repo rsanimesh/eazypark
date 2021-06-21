@@ -1,20 +1,39 @@
-.logo_title {
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+:root {
+    --base-color: #751fb9;
+}
+
+.bg-base {
+    background: var(--base-color);
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body::before {
+    display: block;
+    content: '';
+    height: 135px;
+}
+
+.logo-title {
     font-size: 24px;
-    font-weight: 600;
-    font-family: "Rubik", sans-serif;
-    color: #4458dc;
+    font-weight: 800;
+    color: var(--base-color);
 }
 
 .nav-text {
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 20px;
     color: #000 !important;
 }
 
-.navbar .nav-item:hover .nav-link,
-.navbar .nav-item.active .nav-link,
-.social-link a:hover {
-    color: #4458dc !important;
+.navbar .nav-item:hover .nav-link {
+    text-decoration: underline!important;
+}
+
+.navbar .nav-item.active .nav-link {
+    color: var(--base-color)!important;
 }
 
 .large {
@@ -22,7 +41,6 @@
     font-weight: 600;
     margin-bottom: 15px;
     line-height: 50px;
-    font-family: "Rubik", sans-serif;
     color: #000000;
 }
 
