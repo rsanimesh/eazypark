@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+:root {
+    --base-color: #4b4d4b;
+    /* --base-color: #393a39; */
+    --second-color: #eeeef8;
+}
+
+.bg-base {
+    background: var(--base-color);
+}
+
+.bg-second {
+    background: var(--second-color);
+}
+
+.text-base {
+    color: var(--base-color);
+}
+
+.btn-base,
+.btn-base:hover {
+    background: var(--base-color);
+    color: white;
+}
+
+.btn-base:hover {
+    box-shadow: 0 0 10px var(--base-color);
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body::before {
+    display: block;
+    content: '';
+    height: 135px;
+}
+
+.logo-title {
+    font-size: 24px;
+    font-weight: 800;
+    /* color: var(--base-color); */
+}
+
+.nav-text {
+    font-size: 20px;
+    color: #000 !important;
+}
+
+.navbar .nav-item:hover .nav-link {
+    text-decoration: underline!important;
+}
+
+.navbar .nav-item.active .nav-link {
+    color: var(--base-color)!important;
+}
+
+.large {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    line-height: 50px;
+    color: #000000;
+}
+
+#contact a,
+.social-link a {
+    text-decoration: none!important;
+}
+
+.social-link a {
+    color: white;
+}
+
+.why_icon_block {
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    border-radius: 100%;
+    background: #fff;
+}
+
+.small-violet-shadow {
+    box-shadow: 0 0 30px rgb(95 18 215 / 10%);
+}
+
+.small-green-shadow {
+    box-shadow: 0 0 30px rgb(18 206 215 / 10%);
+}
+
+.small-yellow-shadow {
+    box-shadow: 0 0 30px rgba(215, 158, 18, .1)
+}
+
+.small-blue-shadow {
+    box-shadow: 0 0 30px rgba(18, 96, 215, .1)
+}
+
+.text-violet {
+    color: #5f12d7
+}
+
+.text-green {
+    color: #12ced7
+}
+
+.text-yellow {
+    color: #d79e12
+}
+
+.text-blue {
+    color: #1260d7
+}
