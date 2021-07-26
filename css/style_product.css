@@ -113,7 +113,8 @@ body::before {
     color: #1260d7
 }
 
-footer a {
+footer a,
+footer a:hover {
     text-decoration: none;
     color: var(--second-color);
 }
