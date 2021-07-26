@@ -112,3 +112,8 @@ body::before {
 .text-blue {
     color: #1260d7
 }
+
+footer a {
+    text-decoration: none;
+    color: var(--second-color);
+}
