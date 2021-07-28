@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 :root {
-    --base-color: #4b4d4b;
+    --base-color: #751fb9;
     --second-color: #eeeef8;
 }
 
@@ -39,7 +39,7 @@ body::before {
 .logo-title {
     font-size: 24px;
     font-weight: 800;
-    /* color: var(--base-color); */
+    color: var(--base-color);
 }
 
 .nav-text {
@@ -110,10 +110,4 @@ body::before {
 
 .text-blue {
     color: #1260d7
-}
-
-footer a,
-footer a:hover {
-    text-decoration: none;
-    color: var(--second-color);
 }
