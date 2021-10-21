@@ -117,3 +117,9 @@ footer a:hover {
     text-decoration: none;
     color: var(--second-color);
 }
+
+@media only screen and (max-width: 600px) {
+    .commingsoonimg {
+        width: 100%;
+    }
+}
