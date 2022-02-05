@@ -1,0 +1,90 @@
+Date: 17th June 2021
+People: Ayan,Rahul
+
+Action Points/ MOM:
+For Rahul 
+To Create HomePage with below sections:
+1. Navigation Bar/Menu: - 
+	Left: Logo/Name
+	Right: Home, About Us, Product, Carrers, Contact Us
+2. Crousel - Images/Videos
+3. Product Section - Right (text,know more button), Left(GIF)
+4. Stats Section
+5. Testimonial - Our Clients, Media Mentions
+6. Contact Us
+
+Meeting+Work = 5Hrs
+******************************************************************************************************************************
+
+Date: 19th June 2021
+People: Ayan, Rahul
+Rahul Action Points:
+1. Top Social Media Links (Done)
+2. Navigation (Done) - Home, About Us, Product, Carrers, Contact Us
+3. Crousel -Done
+4. About Us - Done
+5. Product / How it works - Done
+6. Testimonial - Done
+7. Why Choose Us - Done
+8. Benefits of Partering with Us
+9. Business Verticals and Offerings
+10. Stats Section
+11. Contact Us - Done
+
+Meeting+Work = 1Hrs
+******************************************************************************************************************************
+
+Date: 20th June 2021
+People: Ayan, Rahul, Kumardip, Mayank
+
+Rahul Action Points
+1. Logo Change - Done
+2. Mulltiple Color Check - Glossy, Eye Catchy - Done
+3. Fonts - https://fonts.google.com/specimen/Open+Sans - Done
+4. Navigation New
+	i) Fix on Top - Done
+	ii) Home, Products (1.Submenu1  2. Submenu2 3. Submenu3), About Us, Demo,  Contact Us - Done
+		# Products to Our Solutions without submenu
+		# For Demo created model rather than section, also linked to how it works section
+5. Demo Section -Done # Converted to Model
+6. Contact Us - Form Add in place of Map - Done
+7. Our Solution or Products Section something like - parkingrhino.com -Done
+8. What Customer think about us => what people think about us - Done
+
+Expection:
+1. Logo Images
+2. Crousel Images/Videos - 3 (Our Solutions, Our Praposal, Benifits with Us)
+3. About Us Data and Image
+4. How it works Data and Image
+5. What people think about us -> Image / Text / Social media links
+6. Why Choose Us -> Image and Broad points with 1 line description
+7. Your Contact Details, Social Links
+
+Meeting + Work = 1Hr+1:30Hrs+3Hrs
+
+******************************************************************************************************************************
+
+Date: 18th July 2021, 8:00PM to 9:00 PM
+People: Ayan, Rahul, Kumardip, Jishnu, Vaibhav
+
+Rahul Action Points
+1. Demo Form - Google I am not a robot. Also Improve Demo Form with Calendar
+2. Use Content from "https://www.behance.net/gallery/120992139/ParkStar-Parking-Finder-Digital-Solution"
+3. Update footer with Terms and Conditions, Privacy Policies and Links
+4. Separate Company and Products pages with linking each other.
+
+Expection:
+1. Data to put on website
+2. Images to put on website
+3. Social Links to put on website
+
+
+Meeting = 1Hr
+Footer  = 2Hrs 26th/7/2021
+
+
+
+
+
+
+
