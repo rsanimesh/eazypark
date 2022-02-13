@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eazypark/static/css/main.ed8a785e.css",
+    "main.js": "/eazypark/static/js/main.844b7b99.js",
+    "static/js/787.6cfde0b2.chunk.js": "/eazypark/static/js/787.6cfde0b2.chunk.js",
+    "index.html": "/eazypark/index.html",
+    "main.ed8a785e.css.map": "/eazypark/static/css/main.ed8a785e.css.map",
+    "main.844b7b99.js.map": "/eazypark/static/js/main.844b7b99.js.map",
+    "787.6cfde0b2.chunk.js.map": "/eazypark/static/js/787.6cfde0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8a785e.css",
+    "static/js/main.844b7b99.js"
+  ]
+}
