@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 function Header() {
     return ( 
@@ -48,7 +49,7 @@ function Header() {
                             </ul>
                         </li>
                         <li className="nav-item">
-                            <a href="#aboutus" className="nav-link mx-1 nav-text">About Us</a>
+                            <HashLink to="/#aboutus" className="nav-link mx-1 nav-text">About Us</HashLink>
                         </li>
                         <li className="nav-item">
                             <a href="#footer" className="nav-link mx-1 nav-text">Contact Us</a>
